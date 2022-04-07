@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LeMonde77
-- 👀 I’m interested in coding
+-🌍 Hi, I’m @LeMonde77
+-🌍 I’m interested in coding
 - 🌱 I’m currently learning pyhton and html
 - 💞️ I’m looking to collaborate on html
 - 📫 my email: koray.oguzpro@gmail.com
